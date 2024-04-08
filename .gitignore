@@ -1,0 +1,5 @@
+examen_evaluacion-env 
+.vscode
+*.ipynb
+*.xlsx
+*.csv

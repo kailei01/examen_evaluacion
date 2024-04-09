@@ -3,4 +3,4 @@ examen_evaluacion-env
 *.ipynb
 *.xlsx
 *.csv
-__pycache__
+__pycache__/
